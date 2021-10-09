@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/birthdatePalindromeCheck/static/css/main.1fdec803.chunk.css",
+    "main.js": "/birthdatePalindromeCheck/static/js/main.641b9f9e.chunk.js",
+    "runtime-main.js": "/birthdatePalindromeCheck/static/js/runtime-main.552a3085.js",
+    "static/js/2.cc975365.chunk.js": "/birthdatePalindromeCheck/static/js/2.cc975365.chunk.js",
+    "static/js/3.597f84ba.chunk.js": "/birthdatePalindromeCheck/static/js/3.597f84ba.chunk.js",
+    "index.html": "/birthdatePalindromeCheck/index.html",
+    "static/js/2.cc975365.chunk.js.LICENSE.txt": "/birthdatePalindromeCheck/static/js/2.cc975365.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.552a3085.js",
+    "static/js/2.cc975365.chunk.js",
+    "static/css/main.1fdec803.chunk.css",
+    "static/js/main.641b9f9e.chunk.js"
+  ]
+}
